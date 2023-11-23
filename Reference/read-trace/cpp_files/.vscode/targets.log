@@ -1,0 +1,342 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 4.3
+# Built for Windows32
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Sat Nov 12 01:17:11 2022
+
+# Variables
+
+# makefile (from 'Makefile', line 11)
+SIM_OBJ = sim_bp.o
+# environment
+SYSTEMDRIVE = C:
+# environment
+LC_ALL = C
+# environment
+USERPROFILE = C:\Users\naren
+# environment
+LOCALAPPDATA = C:\Users\naren\AppData\Local
+# environment
+VSCODE_CWD = C:\Users\naren\AppData\Local\Programs\Microsoft VS Code
+# environment
+CHOCOLATEYINSTALL = C:\ProgramData\chocolatey
+# environment
+SYSTEMROOT = C:\WINDOWS
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+# default
+MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
+# automatic
+@D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_1216_AWXIKXSGFMWOGFWX
+# environment
+ONEDRIVECOMMERCIAL = C:\Users\naren\OneDrive - North Carolina State University
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+#  
+automatic
+%D = $(patsubst %/,%,$(patsubst %\,%,$(dir $%)))
+# automatic
+^D = $(patsubst %/,%,$(patsubst %\,%,$(dir $^)))
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\naren\AppData\Roaming\Code\CachedData\6261075646f055b99068d3688932416f2346dd3b
+# environment
+LANG = C
+# default
+.LOADED := 
+# environment
+TMP = C:\Users\naren\AppData\Local\Temp
+# default
+.INCLUDE_DIRS = .
+# environment
+PROCESSOR_ARCHITEW6432 = AMD64
+# makefile
+MAKEFLAGS = pqrR
+# environment
+ONEDRIVE = C:\Users\naren\OneDrive - North Carolina State University
+# makefile
+CURDIR := c:/Users/naren/OneDrive - North Carolina State University/Desktop/Fall 22/ECE 563/Project 2/read-trace/cpp_files
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# automatic
+*D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
+# environment
+PROGRAMFILES = C:\Program Files (x86)
+# environment
+MFLAGS = -pqrR
+# default
+.SHELLFLAGS := -c
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# automatic
++D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST := Makefile
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_PID = 1216
+# automatic
+?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
+# automatic
+*F = $(notdir $*)
+# automatic
+<D = $(patsubst %/,%,$(patsubst %\,%,$(dir $<)))
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# default
+MAKE_HOST := Windows32
+# environment
+PROGRAMDATA = C:\ProgramData
+# default
+SHELL := sh.exe
+# environment
+HOMEPATH = \Users\naren
+# default
+MAKECMDGOALS := all
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# environment
+WINDIR = C:\WINDOWS
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\msys64\mingw64\bin;C:\ProgramData\chocolatey\bin;C:\Users\naren\AppData\Local\Microsoft\WindowsApps;C:\msys64\mingw64\bin;C:\intelFPGA_lite\19.1\modelsim_ase\win32aloem;C:\Users\naren\AppData\Local\Programs\Microsoft VS Code\bin
+# environment
+ZES_ENABLE_SYSMAN = 1
+# environment
+COMPUTERNAME = DESKTOP
+# default
+MAKEFILES := 
+# automatic
+^F = $(notdir $^)
+# environment
+PROMPT = $P$G
+# environment
+CHOCOLATEYLASTPATHUPDATE = 133107909463007158
+# makefile (from 'Makefile', line 4)
+WARN = -Wall
+# environment
+LOGONSERVER = \\DESKTOP
+# environment
+QSYS_ROOTDIR = C:\intelFPGA_lite\19.1\quartus\sopc_builder\bin
+# environment
+USERNAME = naren
+# environment
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+# automatic
+?F = $(notdir $?)
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# automatic
++F = $(notdir $+)
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERDOMAIN = DESKTOP
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+OS = Windows_NT
+# makefile (from 'Makefile', line 2)
+OPT = -O3
+# makefile
+.DEFAULT_GOAL := all
+# default
+MAKE_VERSION := 4.3
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# environment
+USERDOMAIN_ROAMINGPROFILE = DESKTOP
+# environment
+NUMBER_OF_PROCESSORS = 12
+# environment
+PUBLIC = C:\Users\Public
+# environment
+QUARTUS_ROOTDIR = C:\intelFPGA_lite\19.1\quartus
+# environment
+SOPC_KIT_NIOS2 = C:\intelFPGA_lite\19.1\nios2eds
+# environment
+APPDATA = C:\Users\naren\AppData\Roaming
+# makefile (from 'Makefile', line 5)
+CFLAGS = $(OPT) $(WARN) $(INC) $(LIB)
+# environment
+HOMEDRIVE = C:
+# environment
+PROCESSOR_ARCHITECTURE = x86
+# makefile (from 'Makefile', line 8)
+SIM_SRC = sim_bp.cc
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+TEMP = C:\Users\naren\AppData\Local\Temp
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\81a1c29256126fbd80ce758cbf1274be-1.73.1-main-sock
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# default
+SUFFIXES := 
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+SESSIONNAME = Console
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync load
+# environment
+PROCESSOR_REVISION = 9a04
+# makefile (from 'Makefile', line 1)
+CC = g++
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+# variable set hash-table stats:
+# Load=100/1024=10%, Rehash=0, Collisions=9/138=7%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (key c:/Users/naren/OneDrive - North Carolina State University/Desktop/Fall 22/ECE 563/Project 2/read-trace/cpp_files, mtime 1667956063): 18 files, no impossibilities.
+
+# 18 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+# Not a target:
+sim_bp.o:
+#  Implicit rule search has been done.
+#  Last modified 2022-11-08 17:54:06
+#  File has been updated.
+#  Successfully updated.
+
+sim: sim_bp.o
+#  Implicit rule search has not been done.
+#  Implicit/static pattern stem: ''
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# automatic
+# @ := sim
+# automatic
+# * := 
+# automatic
+# < := sim_bp.o
+# automatic
+# + := sim_bp.o
+# automatic
+# % := 
+# automatic
+# ^ := sim_bp.o
+# automatic
+# ? := sim_bp.o
+# automatic
+# | := 
+# variable set hash-table stats:
+# Load=8/32=25%, Rehash=0, Collisions=3/18=17%
+#  recipe to execute (from 'Makefile', line 24):
+	$(CC) -o sim $(CFLAGS) $(SIM_OBJ) -lm
+	@echo "-----------DONE WITH sim-----------"
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-10-30 21:39:36
+#  File has been updated.
+#  Successfully updated.
+
+clean:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 40):
+	rm -f *.o sim
+
+.cpp.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 34):
+	$(CC) $(CFLAGS)  -c $*.cpp
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+all: sim
+#  Command line target.
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/10=0%
+#  recipe to execute (from 'Makefile', line 18):
+	@echo "my work is done here..."
+
+clobber:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 46):
+	rm -f *.o
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+.cc.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 31):
+	$(CC) $(CFLAGS)  -c $*.cc
+
+# files hash-table stats:
+# Load=10/1024=1%, Rehash=0, Collisions=0/25=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 26 / storage = 221 B / avg = 8 B
+# current buf: size = 8174 B / used = 221 B / count = 26 / avg = 8 B
+
+# strcache performance: lookups = 40 / hit rate = 35%
+# hash-table stats:
+# Load=26/8192=0%, Rehash=0, Collisions=0/40=0%
+# Finished Make data base on Sat Nov 12 01:17:11 2022
+
+ 
